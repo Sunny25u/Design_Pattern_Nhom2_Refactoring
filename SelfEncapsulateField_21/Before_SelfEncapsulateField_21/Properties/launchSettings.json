@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Before_SelfEncapsulateField_21": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

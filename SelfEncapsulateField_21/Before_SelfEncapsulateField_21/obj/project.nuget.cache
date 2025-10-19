@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVE88BfrKjw=",
+  "success": true,
+  "projectFilePath": "D:\\Năn 4\\PT-TK-PTPM\\SelfEncapsulateField_21\\Before_SelfEncapsulateField_21\\Before_SelfEncapsulateField_21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
