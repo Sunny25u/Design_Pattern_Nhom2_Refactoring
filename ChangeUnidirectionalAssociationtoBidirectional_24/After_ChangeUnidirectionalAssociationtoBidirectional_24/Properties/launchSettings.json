@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "After_ChangeUnidirectionalAssociationtoBidirectional_24": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
