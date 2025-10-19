@@ -1,0 +1,14 @@
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\bin\Debug\net8.0\After_ReplaceArraywithObject_23.exe
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\bin\Debug\net8.0\After_ReplaceArraywithObject_23.deps.json
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\bin\Debug\net8.0\After_ReplaceArraywithObject_23.runtimeconfig.json
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\bin\Debug\net8.0\After_ReplaceArraywithObject_23.dll
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\bin\Debug\net8.0\After_ReplaceArraywithObject_23.pdb
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\After_ReplaceArraywithObject_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\After_ReplaceArraywithObject_23.AssemblyInfoInputs.cache
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\After_ReplaceArraywithObject_23.AssemblyInfo.cs
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\After_ReplaceArraywithObject_23.csproj.CoreCompileInputs.cache
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\After_ReplaceArraywithObject_23.dll
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\refint\After_ReplaceArraywithObject_23.dll
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\After_ReplaceArraywithObject_23.pdb
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\After_ReplaceArraywithObject_23.genruntimeconfig.cache
+D:\Năn 4\PT-TK-PTPM\ReplaceArraywithObject_23\After_ReplaceArraywithObject_23\obj\Debug\net8.0\ref\After_ReplaceArraywithObject_23.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Before_ReplaceArraywithObject_23": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
