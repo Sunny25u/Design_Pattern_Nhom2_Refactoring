@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Replace_Method_with_Method_Object_After/1.0.0": {
+        "runtime": {
+          "Replace_Method_with_Method_Object_After.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Replace_Method_with_Method_Object_After/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

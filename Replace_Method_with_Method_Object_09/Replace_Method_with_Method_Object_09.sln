@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace_Method_with_Method_Object_Before", "Replace_Method_with_Method_Object_Before\Replace_Method_with_Method_Object_Before.csproj", "{7B1F929A-0DE7-4D8C-A6C6-4460612D5DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace_Method_with_Method_Object_After", "Replace_Method_with_Method_Object_After\Replace_Method_with_Method_Object_After.csproj", "{1E73C75A-4998-49ED-8DFA-AE4A10ACCD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1F929A-0DE7-4D8C-A6C6-4460612D5DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1F929A-0DE7-4D8C-A6C6-4460612D5DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1F929A-0DE7-4D8C-A6C6-4460612D5DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1F929A-0DE7-4D8C-A6C6-4460612D5DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E73C75A-4998-49ED-8DFA-AE4A10ACCD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E73C75A-4998-49ED-8DFA-AE4A10ACCD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E73C75A-4998-49ED-8DFA-AE4A10ACCD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E73C75A-4998-49ED-8DFA-AE4A10ACCD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF3AEC2-3343-4CB6-87CC-412AF9DDCF69}
+	EndGlobalSection
+EndGlobal
