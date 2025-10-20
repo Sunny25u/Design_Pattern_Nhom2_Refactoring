@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "After_ReplaceMagicNumberwithSymbolicConstant_26/1.0.0": {
+        "runtime": {
+          "After_ReplaceMagicNumberwithSymbolicConstant_26.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "After_ReplaceMagicNumberwithSymbolicConstant_26/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
