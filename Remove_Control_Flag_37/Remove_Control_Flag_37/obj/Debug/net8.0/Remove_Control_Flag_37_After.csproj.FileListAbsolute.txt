@@ -1,0 +1,14 @@
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\bin\Debug\net8.0\Remove_Control_Flag_37_After.exe
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\bin\Debug\net8.0\Remove_Control_Flag_37_After.deps.json
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\bin\Debug\net8.0\Remove_Control_Flag_37_After.runtimeconfig.json
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\bin\Debug\net8.0\Remove_Control_Flag_37_After.dll
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\bin\Debug\net8.0\Remove_Control_Flag_37_After.pdb
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\Remove_Control_Flag_37_After.GeneratedMSBuildEditorConfig.editorconfig
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\Remove_Control_Flag_37_After.AssemblyInfoInputs.cache
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\Remove_Control_Flag_37_After.AssemblyInfo.cs
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\Remove_Control_Flag_37_After.csproj.CoreCompileInputs.cache
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\Remove_Control_Flag_37_After.dll
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\refint\Remove_Control_Flag_37_After.dll
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\Remove_Control_Flag_37_After.pdb
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\Remove_Control_Flag_37_After.genruntimeconfig.cache
+Z:\NguyenHoagTri\Remove_Control_Flag_37\Remove_Control_Flag_37\obj\Debug\net8.0\ref\Remove_Control_Flag_37_After.dll

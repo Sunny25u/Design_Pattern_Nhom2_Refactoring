@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Remove_Control_Flag_37_After/1.0.0": {
+        "runtime": {
+          "Remove_Control_Flag_37_After.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Remove_Control_Flag_37_After/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
