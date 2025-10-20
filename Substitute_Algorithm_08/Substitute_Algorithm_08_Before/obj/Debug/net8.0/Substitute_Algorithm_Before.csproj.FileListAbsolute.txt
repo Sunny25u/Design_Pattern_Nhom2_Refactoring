@@ -1,0 +1,14 @@
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\bin\Debug\net8.0\Substitute_Algorithm_Before.exe
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\bin\Debug\net8.0\Substitute_Algorithm_Before.deps.json
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\bin\Debug\net8.0\Substitute_Algorithm_Before.runtimeconfig.json
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\bin\Debug\net8.0\Substitute_Algorithm_Before.dll
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\bin\Debug\net8.0\Substitute_Algorithm_Before.pdb
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\Substitute_Algorithm_Before.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\Substitute_Algorithm_Before.AssemblyInfoInputs.cache
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\Substitute_Algorithm_Before.AssemblyInfo.cs
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\Substitute_Algorithm_Before.csproj.CoreCompileInputs.cache
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\Substitute_Algorithm_Before.dll
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\refint\Substitute_Algorithm_Before.dll
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\Substitute_Algorithm_Before.pdb
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\Substitute_Algorithm_Before.genruntimeconfig.cache
+Z:\Huutai\Substitute_Algorithm_08\Substitute_Algorithm_Before\obj\Debug\net8.0\ref\Substitute_Algorithm_Before.dll
