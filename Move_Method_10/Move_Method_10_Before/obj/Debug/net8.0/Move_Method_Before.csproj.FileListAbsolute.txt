@@ -1,0 +1,4 @@
+Z:\Huutai\Move_Method_10\Move_Method_Before\obj\Debug\net8.0\Move_Method_Before.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Huutai\Move_Method_10\Move_Method_Before\obj\Debug\net8.0\Move_Method_Before.AssemblyInfoInputs.cache
+Z:\Huutai\Move_Method_10\Move_Method_Before\obj\Debug\net8.0\Move_Method_Before.AssemblyInfo.cs
+Z:\Huutai\Move_Method_10\Move_Method_Before\obj\Debug\net8.0\Move_Method_Before.csproj.CoreCompileInputs.cache
