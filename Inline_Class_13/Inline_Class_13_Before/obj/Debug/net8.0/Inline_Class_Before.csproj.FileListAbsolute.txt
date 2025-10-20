@@ -1,0 +1,14 @@
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\bin\Debug\net8.0\Inline_Class_Before.exe
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\bin\Debug\net8.0\Inline_Class_Before.deps.json
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\bin\Debug\net8.0\Inline_Class_Before.runtimeconfig.json
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\bin\Debug\net8.0\Inline_Class_Before.dll
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\bin\Debug\net8.0\Inline_Class_Before.pdb
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\Inline_Class_Before.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\Inline_Class_Before.AssemblyInfoInputs.cache
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\Inline_Class_Before.AssemblyInfo.cs
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\Inline_Class_Before.csproj.CoreCompileInputs.cache
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\Inline_Class_Before.dll
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\refint\Inline_Class_Before.dll
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\Inline_Class_Before.pdb
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\Inline_Class_Before.genruntimeconfig.cache
+Z:\Huutai\Inline_Class_13\Inline_Class_Before\obj\Debug\net8.0\ref\Inline_Class_Before.dll
