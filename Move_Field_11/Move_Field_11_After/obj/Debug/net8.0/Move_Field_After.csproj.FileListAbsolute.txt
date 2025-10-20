@@ -1,0 +1,14 @@
+Z:\Huutai\Move_Field_11\Move_Field_After\bin\Debug\net8.0\Move_Field_After.exe
+Z:\Huutai\Move_Field_11\Move_Field_After\bin\Debug\net8.0\Move_Field_After.deps.json
+Z:\Huutai\Move_Field_11\Move_Field_After\bin\Debug\net8.0\Move_Field_After.runtimeconfig.json
+Z:\Huutai\Move_Field_11\Move_Field_After\bin\Debug\net8.0\Move_Field_After.dll
+Z:\Huutai\Move_Field_11\Move_Field_After\bin\Debug\net8.0\Move_Field_After.pdb
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\Move_Field_After.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\Move_Field_After.AssemblyInfoInputs.cache
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\Move_Field_After.AssemblyInfo.cs
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\Move_Field_After.csproj.CoreCompileInputs.cache
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\Move_Field_After.dll
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\refint\Move_Field_After.dll
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\Move_Field_After.pdb
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\Move_Field_After.genruntimeconfig.cache
+Z:\Huutai\Move_Field_11\Move_Field_After\obj\Debug\net8.0\ref\Move_Field_After.dll
